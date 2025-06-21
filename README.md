@@ -63,12 +63,18 @@ Example:
 nginx
 Buy groceries,false
 Complete assignment,true
+
+
 🚀 Future Enhancements (Optional Ideas)
 
 GUI using Java Swing or JavaFX
+
 Task priority levels
+
 Due dates and reminders
+
 Export tasks to CSV or JSON
 
 🙋‍♀️ Author
+
 Lahari Reddy Kalluru
